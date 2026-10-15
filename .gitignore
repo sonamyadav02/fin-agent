@@ -1,0 +1,26 @@
+.env
+.env.local
+.env.*.local
+frontend/.env.local
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+frontend/node_modules/
+frontend/package-lock.json
+.next/
+frontend/tsconfig.tsbuildinfo
+
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+*.log
+
+Data for Insight Screener_values_1july2026.xlsx
+Exit Multiple Analysis 1.xlsx
+Hard coded Data from BBG_Jan4th.xlsx
+Exit_Parameter_Report.pdf
